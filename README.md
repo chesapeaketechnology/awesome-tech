@@ -20,6 +20,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
   * [Data Structures](#data-structures)
   * [Dependency Injection](#dependency-injection)
   * [Development](#development)
+  * [Version Control](#version-control)
   * [Distributed Applications](#distributed-applications)
   * [Distribution](#distribution)
   * [Document Processing](#document-processing)
@@ -112,6 +113,10 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 *Libraries for everything related to the CLI.*
 
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Plugin-enabled framework for drastically more powerful zsh command line.
+- [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+- [Homebrew](https://brew.sh) - The missing package manager for macOS (or Linux).
+
 
 
 ### Cluster Management
@@ -149,6 +154,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 - [config](https://github.com/typesafehub/config) - Configuration library for JVM languages.
 - [owner](https://github.com/lviggiano/owner) - Reduces boilerplate of properties.
+- [Typesafe Config](https://github.com/lightbend/config) - Powerful, yet simple, configuration library for JVM languages using [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md) (Human-Optimized Config Object Notation)
 
 ### CSV
 
@@ -197,6 +203,13 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 - [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Unlimited runtime class and resource redefinition.
 - [JRebel ![c]](https://zeroturnaround.com/software/jrebel) - Instantly reloads code and configuration changes without redeploys.
 - [Manifold](https://manifold.systems) - Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
+
+
+### Version Control
+
+*GUI and command line tools for version control.*
+- [Fork](https://git-fork.com) - A cross-platform, powerful, and intuitive git GUI client that is **FREE**.
+- [Tortoise HG](https://tortoisehg.bitbucket.io) - A free and functional client for Mercurial (Hg).
 
 
 ### Distributed Applications
