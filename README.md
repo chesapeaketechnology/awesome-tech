@@ -362,6 +362,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 - [Codename One](https://www.codenameone.com) - Cross-platform solution for writing native mobile apps.
 - [JavaCV](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more.
+- [Java Object Diff](https://github.com/SQiShER/java-object-diff) - Compare Java objects with a very usable out-of-the-box configuration.
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) - Analogue of Gradle Wrapper for Maven, allows building projects without installing maven.
 
 - [OpenRefine](http://openrefine.org) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
