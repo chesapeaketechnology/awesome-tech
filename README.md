@@ -98,7 +98,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 *Libraries to manipulate bytecode programmatically.*
 
-- [ASM](http://asm.ow2.org) - All-purpose, low-level bytecode manipulation and analysis.
+- [ASM](https://asm.ow2.io/) - All-purpose, low-level bytecode manipulation and analysis.
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - Java 8 Jar & Android APK reverse engineering suite.
 - [Javassist](https://jboss-javassist.github.io/javassist) - Tries to simplify bytecode editing.
 
@@ -113,11 +113,10 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 *Libraries for everything related to the CLI.*
 
-- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Plugin-enabled framework for drastically more powerful zsh command line. Zsh is based on bash, but [offers many improvements](https://sunlightmedia.org/bash-vs-zsh/), oh-my-zsh is a popular, open-source project with active community support.
-- [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
 - [Homebrew](https://brew.sh) - The missing package manager for macOS (or Linux).
-
-
+- [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Plugin-enabled framework for drastically more powerful zsh command line. Zsh is based on bash, but [offers many improvements](https://sunlightmedia.org/bash-vs-zsh/), oh-my-zsh is a popular, open-source project with active community support.
+- [picocli](https://picocli.info/) - Powerful and easy to use library for developing command line applications
 
 ### Cluster Management
 
@@ -190,7 +189,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 *Libraries that help to realize the [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control) paradigm.*
 
 - [Apache DeltaSpike](https://deltaspike.apache.org) - CDI extension framework.
-- [Dagger2](https://google.github.io/dagger) - Compile-time injection framework without reflection.
+- [Dagger2](https://dagger.dev/) - Compile-time injection framework without reflection.
 - [Guice](https://github.com/google/guice) - Lightweight and opinionated framework that completes Dagger.
 
 
@@ -272,9 +271,9 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 *Libraries to create modern graphical user interfaces.*
 
-- [JavaFX](https://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - The successor of Swing.
-- [JFormDesigner]()
-- [JIDE]()
+- [JavaFX](https://openjfx.io/) - The successor of Swing.
+- [JFormDesigner](https://www.formdev.com/) - Professional GUI designer for Java Swing user interfaces with support for 3rd party layouts MigLayout and FormLayout.
+- [JIDE](http://jidesoft.com/) - Provides a collection of custom swing components and utilities.
 - [Scene Builder](https://gluonhq.com/open-source/scene-builder) - Visual layout tool for JavaFX applications.
 - [SWT](https://www.eclipse.org/swt) - The Standard Widget Toolkit, a graphical widget toolkit.
 
@@ -283,7 +282,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 *Everything about high-performance computation, from collections to specific libraries.*
 
 - [Disruptor](https://lmax-exchange.github.io/disruptor) - Inter-thread messaging library.
-- [Koloboke](https://github.com/OpenHFT/Koloboke) - Hash sets and hash maps.
+- [Koloboke](https://github.com/leventov/Koloboke) - Hash sets and hash maps.
 
 ### HTTP Clients
 
@@ -319,6 +318,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 *Current implementations of the JVM/JDK.*
 
 - [Adopt Open JDK](https://adoptopenjdk.net) - OpenJDK builds which allows to choose between HotSpot and OpenJ9.
+- [Amazon Corretto](https://aws.amazon.com/corretto/) - An OpenJDK distribution supported by Amazon.
 - [Graal](https://github.com/oracle/graal) - Polyglot embeddable JVM.
 - [Open JDK](https://openjdk.java.net) - Open JDK distributed by Oracle.
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview) - RedHat's OpenJDK distribution.
@@ -329,11 +329,9 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 *Libraries that log the behavior of an application.*
 
 - [Apache Log4j 2](https://logging.apache.org/log4j) - Complete rewrite with a powerful plugin and configuration architecture.
-
 - [Kibana](https://www.elastic.co/products/kibana) - Analyzes and visualizes log files. Some features require payment.
 - [Logback](https://logback.qos.ch) - Robust logging library with interesting configuration options via Groovy.
 - [Logstash](https://www.elastic.co/products/logstash) - Tool for managing log files.
-
 - [SLF4J](https://www.slf4j.org) - Abstraction layer/simple logging facade.
 
 ### Machine Learning
@@ -341,7 +339,9 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 *Tools that provide specific statistical algorithms for learning from data.*
 
 - [Apache Spark](https://spark.apache.org) - Data analytics cluster-computing framework.
+- [Tribuo](https://tribuo.org/) - Multi-class classification, regression, clustering, anomaly detection and multi-label classification.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka) - Collection of algorithms for data mining tasks ranging from pre-processing to visualization.
+
 
 ### Messaging
 
@@ -364,7 +364,6 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 - [JavaCV](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more.
 - [Java Object Diff](https://github.com/SQiShER/java-object-diff) - Compare Java objects with a very usable out-of-the-box configuration.
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) - Analogue of Gradle Wrapper for Maven, allows building projects without installing maven.
-
 - [OpenRefine](http://openrefine.org) - Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 - [Polyglot for Maven](https://github.com/takari/polyglot-maven) - Extensions for Maven 3.3.1+ that allows writing the POM model in dialects other than XML.
 
@@ -412,6 +411,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 - [JMH](http://openjdk.java.net/projects/code-tools/jmh) - a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targeting the JVM.
 - [JProfiler ![c]](https://www.ej-technologies.com/products/jprofiler/overview.html) - Database profiling for JDBC, JPA and NoSQL, with JEE support.
+- [VisualVM](https://visualvm.github.io/) - Lightweight performance and memory monitor.
 
 
 ### Platform
@@ -608,12 +608,14 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 ### Twitter
 
-
+- [intellijidea](https://twitter.com/intellijidea)
+- [java](https://twitter.com/java)
 
 ### Websites
 
 *Sites to read.*
 
+- [Java Annotated Monthly (Trisha Gee)](https://blog.jetbrains.com/author/trishagee/)
 
 ## Contributing
 
