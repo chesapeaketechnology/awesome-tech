@@ -116,7 +116,7 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 - [Homebrew](https://brew.sh) - The missing package manager for macOS (or Linux).
 - [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) - Plugin-enabled framework for drastically more powerful zsh command line. Zsh is based on bash, but [offers many improvements](https://sunlightmedia.org/bash-vs-zsh/), oh-my-zsh is a popular, open-source project with active community support.
-- [picocli](https://picocli.info/) - Powerful and easy to use library for developing command line applications
+- [picocli](https://picocli.info/) - Powerful and easy to use library for developing command line applications.
 
 ### Cluster Management
 
@@ -608,14 +608,14 @@ A curated list of awesome tools, libraries, software, and projects CTI has used,
 
 ### Twitter
 
-- [intellijidea](https://twitter.com/intellijidea)
-- [java](https://twitter.com/java)
+- [intellijidea](https://twitter.com/intellijidea) - In addition to IntelliJ updates they share Java-related webinars and talks.
+- [java](https://twitter.com/java) - The official Java twitter account shares plenty of interesting update news and presentations.
 
 ### Websites
 
 *Sites to read.*
 
-- [Java Annotated Monthly (Trisha Gee)](https://blog.jetbrains.com/author/trishagee/)
+- [Java Annotated Monthly (Trisha Gee)](https://blog.jetbrains.com/author/trishagee/) - Summarizes new Java ecosystem libraries, talks, and other updates each month.
 
 ## Contributing
 
